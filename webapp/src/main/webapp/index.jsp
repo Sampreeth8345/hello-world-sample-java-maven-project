@@ -17,3 +17,4 @@ Thank you
 Bye
 hey
 Okay
+now
